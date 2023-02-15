@@ -39,3 +39,7 @@
 }
 
 /* Add rules for steps 10 and 11 */
+.letters:hover p {
+	transform: rotateX(360deg);
+	transition: 1.5s;
+}
